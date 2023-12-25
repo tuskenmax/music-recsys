@@ -46,3 +46,29 @@ This research links the emotions defined by the result from the Lüscher Color T
 Using GPT-4.0 for creating training data, BERT, and MLP to train the model, it connects color choices to song attributes, generating personalized music recommendations.
 
 The code can be accessed [here](https://github.com/tuskenmax/music-recsys/blob/main/resources/music%20recommender%20based%20on%20prompt.ipynb)
+
+# Usage example:
+**A user takes a color test, than get's a result:**
+
+Tries to escape from his problems, difficulties and tensions by abrupt, headstrong and ill-considered decisions or changes of direction.
+Defensive. Feels his position is threatened or inadequately established. Determined to pursue his objectives despite the anxiety induced by opposition.
+Physiological interpretation: Suppressed agitation resulting from unsatisfactory or discordant personal relationships. Can lead to irritability, angry outbursts or sexual neuroses. There is a possibility of cardiac complaints.
+Psychological interpretation: Considerable distress is arising from some unsatisfactory relationship. He feels helpless to restore affinity and any semblance of mutual trust, so the situation is regarded as a depressing and unhappy state which he must continue to tolerate. Beset to the point of nervous prostration.
+In brief: Helpless and irritable disharmony.
+Physiological interpretation: Stress resulting from frustration in his attempts to achieve security and understanding.
+Psychological interpretation: Is responsive to outside stimuli and wants to experience everything intensely, but is finding the existing situation extremely frustrating. Needs sympathetic understanding and a sense of security. Distressed by his apparent powerlessness to achieve his goals.
+
+In brief: Frustrated empathy.
+
+**The system processes the output and provides 10 songs, based on the user's current emotional state:**
+
+1. https://open.spotify.com/track/48xNw8YZxvrc3qB5IKaJ8w
+2. https://open.spotify.com/track/5BOMJwJhP84KsMLCqmTUYD
+3. https://open.spotify.com/track/4uWjXFthU2ts7QfKZDWuwR
+4. https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g
+5. https://open.spotify.com/track/356dWMVMXLJI6OEoq0ITf1
+6. https://open.spotify.com/track/5XDUR6VWpCtgv2hYH5GdMB
+7. https://open.spotify.com/track/1IhnbJZ7FywEL7YCyLKDgv
+8. https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK
+9. https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS
+10. https://open.spotify.com/track/4lKWSv9JLE8B1YINRFv42O
