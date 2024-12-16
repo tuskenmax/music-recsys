@@ -1,0 +1,13 @@
+2024-11-05 00:22:54,219 - INFO - Starting training with 5 epochs, device: cuda
+2024-11-05 00:22:55,987 - INFO - Training Loss: 0.3285
+2024-11-05 00:22:56,161 - INFO - Validation Loss: 0.3296
+2024-11-05 00:22:57,006 - INFO - Training Loss: 0.3285
+2024-11-05 00:22:57,178 - INFO - Validation Loss: 0.3296
+2024-11-05 00:22:58,002 - INFO - Training Loss: 0.3285
+2024-11-05 00:22:58,178 - INFO - Validation Loss: 0.3296
+2024-11-05 00:22:59,237 - INFO - Training Loss: 0.3284
+2024-11-05 00:22:59,438 - INFO - Validation Loss: 0.3295
+2024-11-05 00:23:00,603 - INFO - Training Loss: 0.3284
+2024-11-05 00:23:00,814 - INFO - Validation Loss: 0.3295
+2024-11-05 00:23:00,821 - INFO - Model saved to data/models/model_20241105_002251.pkl
+2024-11-05 00:23:00,821 - INFO - Training completed.
